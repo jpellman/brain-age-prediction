@@ -1,4 +1,4 @@
-# Uddin et al 2010
+# Notes on "Typical and atypical development of functional human brain networks: insights from resting-state fMRI", Uddin et al., Frontiers in Systems Neuroscience, 2010
 
 ## General Findings
 * As brains develop activity trends from being more diffuse to more focal.
