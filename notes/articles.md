@@ -15,6 +15,7 @@
 * "Stimulus-Elicited Connectivity Influences Resting-State Connectivity Years Later in Human Development: A Prospective Study", Gabard-Durnam et al., Journal of Neuroscience, 2016
 * "Dynamic reconfiguration of structural and functional connectivity across core neurocognitive brain networks with development", Uddin et al., Journal of Neuroscience, 2011
 * "Development of functional and structural connectivity within the default mode network in young children", Supekar et al., Neuroimage, 2010
+* "Development of Large-Scale Functional Brain Networks in Children", Supekar et al, PLoS Biology, 2009
 * "Tracking the Brain’s Functional Coupling Dynamics over Development", Huthison & Morton, Journal of Neuroscience, 2015
 
 * "Normative development of ventral striatal resting state connectivity in humans",Fareri et al, Neuroimage, 2015
