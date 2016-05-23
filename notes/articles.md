@@ -5,6 +5,8 @@
 * "The development of Human Functional Brain Networks", Power et al., Neuron, 2010
 * "Annual Research Review: Growth connectomics – the organization and reorganization of brain networks during normal and abnormal development", Vertes & Bullmore, Journal of Child Psychology and Psychiatry, 2015
 * "Typical and atypical development of functional human brain networks: insights from resting-state fMRI", Uddin et al., Frontiers in Systems Neuroscience, 2010
+* Brenhouse and Anderson, 2011
+* Anderson 2003
 
 ## Experiments
 
@@ -16,7 +18,8 @@
 * "Dynamic reconfiguration of structural and functional connectivity across core neurocognitive brain networks with development", Uddin et al., Journal of Neuroscience, 2011
 * "Development of functional and structural connectivity within the default mode network in young children", Supekar et al., Neuroimage, 2010
 * "Development of Large-Scale Functional Brain Networks in Children", Supekar et al, PLoS Biology, 2009
-* "Tracking the Brain’s Functional Coupling Dynamics over Development", Huthison & Morton, Journal of Neuroscience, 2015
+* "Tracking the Brain’s Functional Coupling Dynamics over Development", Hutchison & Morton, Journal of Neuroscience, 2015
+* Allen et al 2014
 
 * "Normative development of ventral striatal resting state connectivity in humans",Fareri et al, Neuroimage, 2015
 * "Structural and Functional Rich Club Organization of the Brain in Children and Adults", Grayson et al, PLoS One, 2014
