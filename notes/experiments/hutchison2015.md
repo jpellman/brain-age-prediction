@@ -16,10 +16,11 @@
    2. mean dwell time (MDT) - average number of consecutive windows where participant is in the same state
    3. intertransition interval (ITI) - number of consecutive instances of a state before transition to a new state
    4. number of transitions - raw number of all state transitions in both rest and task
-* Results
+
+## Results
  * Number of states expressed at rest uncorrelated w/ age.
  * Number of states expressed in a task positively correlated w/ age.
- * Frequencey
+ * Frequency
   * Age negatively associated w/ states I,F,G; positively associated w/ B and C.
  * MDT
   * Age positively associated w/ MDT of states H,D,C; negatively with state I.
